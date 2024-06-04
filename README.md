@@ -1,4 +1,4 @@
-# Projeto motor.
+# Projeto Controle de Velocidade de Motor DC com Arduino
 
 O código apresentado implementa um sistema de controle de velocidade simples para um motor utilizando um botão como interface. A seguir, uma análise mais aprofundada de cada parte do código:
 
