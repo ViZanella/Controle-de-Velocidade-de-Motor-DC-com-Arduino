@@ -27,16 +27,16 @@ void loop() {
     // Define a velocidade do motor com base no estado
     switch (estado) {
       case 0:
-        velocidade = 63;
+        velocidade = 63;  // 25% de 255
         break;
       case 1:
-        velocidade = 127;
+        velocidade = 127; // 50% de 255
         break;
       case 2:
-        velocidade = 191;
+        velocidade = 191; // 75% de 255
         break;
       case 3:
-        velocidade = 255;
+        velocidade = 255; // 100% de 255
         break;
     }
 
