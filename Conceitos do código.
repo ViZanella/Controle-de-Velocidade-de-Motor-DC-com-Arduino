@@ -1,0 +1,20 @@
+                                                        Análise do Circuito:
+
+A imagem fornecida mostra o esquema elétrico de um circuito que utiliza o código Arduino apresentado anteriormente para controlar a velocidade de um motor.
+
+O circuito é composto pelos seguintes elementos:
+
+Arduino Nano: Microcontrolador responsável por executar o código Arduino e controlar o motor.
+                                                          
+Botão: Utilizado para iniciar e alterar a etapa da velocidade do motor.
+                                                          
+Motor DC: Controlado pelo Arduino para girar em diferentes velocidades.
+
+Resistores: Limitam a corrente que flui pelos componentes.
+
+Conexões: Fios que conectam os componentes entre si.
+
+----------------------------------------------------------------------
+
+                                                        Simulação no Proteus:
+
