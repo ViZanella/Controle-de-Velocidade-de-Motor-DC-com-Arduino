@@ -14,6 +14,8 @@ Resistores: Limitam a corrente que flui pelos componentes.
 
 Conexões: Fios que conectam os componentes entre si.
 
+Controlador: opera como intermediario entre os comandos do arduino e do motor.
+
 ----------------------------------------------------------------------
 
                                                         Simulação no Proteus:
